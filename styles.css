@@ -53,14 +53,11 @@ html{
 }
 
 .resumen {
-    align-self: flex-end;
-    max-width: 50%;
+    max-width: 40%;
     text-align: right;
+    margin-left: auto; /* Mueve la sección a la derecha */
+    padding: 20px;
 }
-
-
-
-
 
 
 
