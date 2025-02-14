@@ -17,6 +17,12 @@ html{
     width: 100%;
 }
 
+.inicio.contenido.info.foto{
+    box-sizing: border-box;
+    align-items: flex-end;
+}
+
+
 /*Menu lateral*/
 .inicio .contenido-seccion header nav{
     position: fixed;
