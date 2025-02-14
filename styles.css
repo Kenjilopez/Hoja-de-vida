@@ -11,15 +11,7 @@ html{
     text-align: center;
     color: #fff;
 }
-.inicio .contenido-seccion {
-    max-width: 1000px;
-    margin: auto;
-    text-align: center;
-    padding: 0 10px;
-}
-.inicio .contenido-seccion header{
-    padding: 30px;
-}
+.inicio.contenidoA.
 
 /*Menu lateral*/
 .inicio .contenido-seccion header nav{
