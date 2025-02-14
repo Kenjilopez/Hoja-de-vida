@@ -168,6 +168,7 @@ html{
 }
 .main.article{
     align-content:flex-start;
+    text-align: left;
 }
 
 
