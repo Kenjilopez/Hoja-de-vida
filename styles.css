@@ -58,6 +58,6 @@ html{
     border-left: 3px solid yellow;
     border-top: 3px solid yellow;
     padding: 20px;
-    margin-top: 5cm; /* Sube la sección */
+    transform: translateY(-50px); /* Sube la sección */
 }
 
