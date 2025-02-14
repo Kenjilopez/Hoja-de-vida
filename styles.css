@@ -46,19 +46,17 @@ html{
 
 .container {
     display: flex;
-    justify-content: space-between; /* Distribuye el contenido */
-    align-items: flex-start; /* Alinea elementos arriba */
-    width: 100%;
-    position: relative; /* Para controlar la posición del resumen */
+    justify-content: flex-end; /* Lo manda a la derecha */
+    align-items: center; /* Lo centra verticalmente */
+    height: 100vh; /* Ajusta la altura al 100% de la pantalla */
+    padding-right: 50px; /* Ajusta el espacio de la derecha */
 }
 
 .resumen {
     width: 40%;
     text-align: right;
-    position: absolute;
-    top: 0; /* Lo sube al inicio del contenedor */
-    right: 0; /* Lo pega a la derecha */
-    padding: 20px;
     border-left: 3px solid yellow;
     border-top: 3px solid yellow;
+    padding: 20px;
 }
+
