@@ -46,16 +46,19 @@ html{
 
 .container {
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    justify-content: space-between; /* Distribuye el contenido */
+    align-items: flex-start; /* Alinea elementos arriba */
     width: 100%;
+    position: relative; /* Para controlar la posición del resumen */
 }
 
 .resumen {
     width: 40%;
     text-align: right;
-    margin-left: auto; /* Lo mueve hacia la derecha */
+    position: absolute;
+    top: 0; /* Lo sube al inicio del contenedor */
+    right: 0; /* Lo pega a la derecha */
     padding: 20px;
-    border-left: 3px solid yellow; /* Línea decorativa */
+    border-left: 3px solid yellow;
     border-top: 3px solid yellow;
 }
