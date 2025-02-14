@@ -47,19 +47,15 @@ html{
 .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    max-width: 50%;
-    margin: 0 auto;
+    align-items: flex-start;
+    width: 100%;
 }
 
 .resumen {
-    max-width: 40%;
+    width: 40%;
     text-align: right;
-    margin-left: auto; /* Mueve la sección a la derecha */
+    margin-left: auto; /* Lo mueve hacia la derecha */
     padding: 20px;
+    border-left: 3px solid yellow; /* Línea decorativa */
+    border-top: 3px solid yellow;
 }
-
-
-
-
-
