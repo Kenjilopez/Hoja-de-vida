@@ -40,7 +40,9 @@ html{
     margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align:left; /* Centrar el texto */
+    text-align: left; /* Asegura alineación del texto */
+    max-width: 50%; /* Ajusta el ancho máximo al 50% de la pantalla */
+    margin: 0 auto; /* Centra horizontalmente */
 }
 
 
