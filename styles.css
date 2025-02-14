@@ -32,7 +32,7 @@ html{
 .foto img {
     width: 150px;   /* Ajusta el tamaño según necesites */
     height: 150px;  /* Igual a width para que sea cuadrado */
-    object-fit: cover; /* Ajusta la imagen dentro del cuadro */
+    object-fit:fill; /* Ajusta la imagen dentro del cuadro */
     margin-left: 20px; /* Espacio entre el texto y la imagen */
 }
 
