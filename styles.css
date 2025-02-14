@@ -74,4 +74,7 @@ html{
     padding: 20px;
     transform: translateY(-550px); /* Sube la sección */
 }
+.resumen.contenido-section{
+    background-color: cornsilk;
+}
 
