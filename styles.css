@@ -17,10 +17,22 @@ html{
     width: 100%;
 }
 
-.inicio.contenido.info.foto{
-    box-sizing: border-box;
-    align-items: flex-end;
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Separa los elementos */
+    text-align: left;
 }
+
+.foto img {
+    width: 150px; /* Ajusta el tamaño de la imagen */
+    border-radius: 50%; /* Opcional: Para que la imagen sea redonda */
+}
+
+.redes {
+    margin-top: 10px;
+}
+
 
 
 /*Menu lateral*/
