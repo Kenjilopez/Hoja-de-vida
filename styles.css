@@ -54,7 +54,7 @@ html{
 .resumen {
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
-    text-align: right;
+    text-align: left;
     border-left: 3px solid yellow;
     border-top: 3px solid yellow;
     padding: 20px;
