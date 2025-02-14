@@ -11,7 +11,9 @@ html{
     text-align: center;
     color: #fff;
 }
-.inicio.contenidoA.
+.inicio.contenidoA.info{
+    text-align: center;
+}
 
 /*Menu lateral*/
 .inicio .contenido-seccion header nav{
