@@ -167,7 +167,7 @@ html{
     margin: 8px 0;
 }
 .main.article.sobremi.contenido-section.intro{
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 
