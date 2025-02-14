@@ -30,10 +30,12 @@ html{
 }
 
 .foto img {
-    width: 150px;   /* Ajusta el tamaño según necesites */
-    height: 150px;  /* Igual a width para que sea cuadrado */
-    object-fit:scale-down; /* Ajusta la imagen dentro del cuadro */
-    margin-left: 20px; /* Espacio entre el texto y la imagen */
+    width: 150px;
+    height: 150px;
+    background-image: url('IMG/IMG_20250214_164530007_HDR_AE[1].jpg');
+    background-size: cover;
+    background-position: center;
+    
 }
 
 .box {
