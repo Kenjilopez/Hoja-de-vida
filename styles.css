@@ -9,8 +9,9 @@ html{
     text-align: center;
     color: #fff;
 }
-body.inicio{
-    text-align: center;
+body.inicio.info{
+    box-sizing: border-box;
+    text-align: -webkit-center;
 }
 
 /*Menu lateral*/
