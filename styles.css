@@ -20,17 +20,18 @@ html{
 .info {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Separa los elementos */
-    text-align: left;
+    justify-content: space-between; /* Separa el texto y la imagen */
+}
+
+.texto {
+    display: flex;
+    flex-direction: column; /* Acomoda el texto en columna */
 }
 
 .foto img {
     width: 150px; /* Ajusta el tamaño de la imagen */
     border-radius: 50%; /* Opcional: Para que la imagen sea redonda */
-}
-
-.redes {
-    margin-top: 10px;
+    margin-left: 20px; /* Espacio entre el texto y la imagen */
 }
 
 
