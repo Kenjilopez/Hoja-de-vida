@@ -1,5 +1,6 @@
 *{
     font-family: "arial";
+    background-color: cornsilk;
 }
 html{
     scroll-behavior: smooth;
@@ -55,7 +56,7 @@ html{
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
     text-align: left;
-    border-left: 3px solid yellow;
+    border-left: 3px solid rgb(0, 4, 255);
     border-top: 3px solid yellow;
     padding: 20px;
     transform: translateY(-500px); /* Sube la sección */
