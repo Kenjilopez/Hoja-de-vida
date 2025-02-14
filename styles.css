@@ -56,7 +56,7 @@ html{
     width: 40%;
     text-align: right;
     position: absolute;
-    top: 0; /* Lo sube al inicio del contenedor */
+    top: 30; /* Lo sube al inicio del contenedor */
     right: 0; /* Lo pega a la derecha */
     padding: 20px;
     border-left: 3px solid yellow;
