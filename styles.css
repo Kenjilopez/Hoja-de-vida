@@ -31,7 +31,7 @@ html{
 
 .foto img {
     width: 150px; /* Ajusta el tamaño de la imagen */
-    aspect-ratio: 1/1; /* Opcional: Para que la imagen sea redonda */
+    aspect-ratio: 1/2; /* Opcional: Para que la imagen sea redonda */
     margin-left: 20px; /* Espacio entre el texto y la imagen */
 }
 
