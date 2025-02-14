@@ -29,9 +29,10 @@ html{
     flex-direction: column; /* Acomoda el texto en columna */
 }
 
-.foto img {
-    width: 180px; /* Ajusta el tamaño de la imagen */
-    aspect-ratio: 1/2; /* Opcional: Para que la imagen sea redonda */
+.foto imgwidth: 150px;   /* Ajusta el tamaño según necesites */
+    height: 150px;  /* Igual a width para que sea cuadrado */
+    object-fit: cover; /* Ajusta la imagen dentro del cuadro */ {
+    
     margin-left: 20px; /* Espacio entre el texto y la imagen */
 }
 
