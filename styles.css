@@ -45,17 +45,16 @@ html{
 }
 
 .container {
-    display: flex;
-    justify-content: flex-end; /* Lo manda a la derecha */
-    align-items: center; /* Lo centra verticalmente */
-    height: 100vh; /* Ajusta la altura al 100% de la pantalla */
-    padding-right: 50px; /* Ajusta el espacio de la derecha */
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Divide en dos columnas */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Ocupa toda la pantalla */
 }
 
 .resumen {
+    justify-self: end; /* Lo manda a la derecha */
     width: 40%;
     text-align: right;
-    right: 0; /* Lo pega a la derecha */
     border-left: 3px solid yellow;
     border-top: 3px solid yellow;
     padding: 20px;
