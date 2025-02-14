@@ -58,5 +58,6 @@ html{
     border-left: 3px solid yellow;
     border-top: 3px solid yellow;
     padding: 20px;
+    right: 0; /* Lo pega a la derecha */
 }
 
