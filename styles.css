@@ -65,7 +65,7 @@ html{
 }
 
 .resumen {
-    background: cornsilk;
+    background: grey;
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
     text-align: left;
