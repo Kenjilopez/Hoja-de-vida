@@ -14,10 +14,9 @@ html{
 }
 #inicio {
     justify-content: center;
-    align-items: center;
+    align-items: left;
     text-align: center;
     width: 100%;
-    display: inline-block;
     list-style: none;
 }
 
