@@ -14,7 +14,7 @@ html{
     width: 100%;
     list-style: none;
 }
-.lista{
+#lista{
     align-items: center;
     text-align: center;
 }
