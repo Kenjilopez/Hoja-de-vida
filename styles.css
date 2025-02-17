@@ -1,7 +1,6 @@
 .fondo{
     width: 100%;
     height: 500px; /* Ajusta según necesidad */
-    background-image: url('IMG/itl.cat_grey-wallpaper_2303750.png');
     background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -46,7 +45,7 @@ html{
 .foto img {
     width: 150px;
     height: 150px;
-    background-image: url('IMG/IMG_20250214_164530007_HDR_AE.jpg');
+    
     background-size: cover;
     background-position: center;
     
