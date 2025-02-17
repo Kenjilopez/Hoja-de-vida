@@ -26,7 +26,7 @@ html{
     text-align: center;
     width: 100%;
 }
-.nav{
+.nav-bar{
     list-style: none;
     justify-content: flex-end;
     display: inline;
