@@ -24,8 +24,7 @@ html{
     align-items: center;
     text-align: center;
     width: 100%;
-    display: inline-block
-    ;
+    display: inline-block;
 }
 .lista{
     list-style: none;
