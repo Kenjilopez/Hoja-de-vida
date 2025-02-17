@@ -12,14 +12,7 @@ html{
 #inicio {
     text-align: center;
     width: 100%;
-    list-style: none;
 }
-#lista{
-    align-items: center;
-    text-align: center;
-}
-
-
 .info {
     display: flex;
     align-items: center;
