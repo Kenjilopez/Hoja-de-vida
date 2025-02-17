@@ -29,6 +29,7 @@ html{
 .lista{
     list-style: none;
     justify-content: flex-end;
+    display: inline-block;
 }
 
 .info {
