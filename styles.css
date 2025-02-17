@@ -15,7 +15,7 @@ html{
 #inicio {
     justify-content: center;
     align-items: left;
-    text-align: center;
+    text-align: left;
     width: 100%;
     list-style: none;
 }
