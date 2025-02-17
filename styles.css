@@ -13,7 +13,6 @@ html{
     text-align: center;
 }
 #inicio {
-    display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
