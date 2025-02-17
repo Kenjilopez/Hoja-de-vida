@@ -26,6 +26,9 @@ html{
     text-align: center;
     width: 100%;
 }
+.inicio.contenido.lista{
+    list-style: none;
+}
 
 .info {
     display: flex;
