@@ -18,12 +18,9 @@ html{
     text-align: center;
     width: 100%;
     display: inline-block;
-}
-.lista{
     list-style: none;
-    justify-content: flex-end;
-    
 }
+
 
 .info {
     display: flex;
