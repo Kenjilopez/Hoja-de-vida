@@ -17,7 +17,6 @@ html{
 /*Inicio*/
 .inicio {
     text-align: center;
-    color: #fff;
 }
 #inicio {
     display: flex;
