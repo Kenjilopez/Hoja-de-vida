@@ -52,7 +52,7 @@ html{
 }
 
 .resumen {
-    background: grey;
+    background: rgb(255, 255, 255);
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
     text-align: left;
