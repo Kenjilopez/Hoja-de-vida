@@ -51,8 +51,7 @@ html{
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
     text-align: left;
-    border-left: 3px solid rgb(0, 4, 255);
-    border-top: 3px solid yellow;
+    border-radius: 8px;
     padding: 20px;
     transform: translateY(-550px); /* Sube la sección */
     display: grid;
