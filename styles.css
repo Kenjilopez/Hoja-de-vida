@@ -50,7 +50,7 @@ html{
     background: rgb(230, 219, 219);
     justify-self: end; /* Lo manda a la derecha */
     width: 40%;
-    text-align: left;
+    text-align: center;
     border-radius: 8px;
     padding: 20px;
     transform: translateY(-550px); /* Sube la sección */
