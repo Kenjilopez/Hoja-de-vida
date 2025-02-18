@@ -1,4 +1,4 @@
 'use strict'
-var este = "¿desea coninuar?";
+var este = "¿Desea coninuar?";
 
 confirm(este);
