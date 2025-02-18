@@ -60,6 +60,7 @@ html{
     border-top: 3px solid yellow;
     padding: 20px;
     transform: translateY(-550px); /* Sube la sección */
+    display: grid;
 }
 
 
