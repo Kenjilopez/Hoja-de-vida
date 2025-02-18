@@ -45,12 +45,6 @@ html{
     display: grid;
 }
 
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Divide en dos columnas */
-    align-items: center; /* Centra verticalmente */
-    height: 100vh; /* Ocupa toda la pantalla */
-}
 
 .resumen {
     background: rgb(230, 219, 219);
